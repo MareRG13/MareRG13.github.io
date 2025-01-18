@@ -1,0 +1,64 @@
+body h1{
+text-shadow: 
+        0 0 5px rgba(0, 255, 0, 0.5), 
+        0 0 10px rgba(0, 255, 0, 0.5), 
+        0 0 15px #00ff00, 
+        0 0 20px #00ff00, 
+        0 0 30px #00ff00, 
+        0 0 40px #00ff00;
+      animation: brillo 1.5s infinite alternate;
+}
+.ma {
+    background: rgba(236, 231, 231, 0.626);
+    text-align: center;
+    width: 50%;
+    margin:auto;
+}
+input {   
+    width: 80%;
+    padding: 10px;
+    border-color: rgb(56, 61, 60);
+
+}
+.lam{
+    font-family:'Times New Roman', Times, serif;
+    border: 2%;
+    background: rgb(194, 188, 188);
+}
+.m{
+    font-family:'Times New Roman', Times, serif;
+    border: 2%;
+    background: rgb(194, 188, 188);
+    width: 25%;
+}
+.tabla{
+    width: 50%;
+    background: rgba(236, 231, 231, 0.626);
+}
+
+.t{
+    width: 20%;
+    background: rgba(236, 231, 231, 0.626);
+}
+.cuadrado{
+    background: rgba(236, 231, 231, 0.626);
+}
+.tri{
+    margin:10%;
+    width: 30%;
+    background: rgba(236, 231, 231, 0.626);
+}
+.circulo {
+  width: 60%;
+  height: 100%;
+  background-color:rgba(236, 231, 231, 0.626);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin: 0%;
+}
