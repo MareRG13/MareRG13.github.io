@@ -9,7 +9,7 @@ if (v1!=0 && v2==0 ) {
      alert("Valor infinito" );
 }
 if (v1!=0 && v2!==0 ) {
-    var res=(parseFloat(v1)*parseFloat(v2)/2);
+    var res=((parseFloat(v1)*parseFloat(v2))/2);
     var resultado=document.getElementById("resp").value=res.toFixed(2)
 }
 }
